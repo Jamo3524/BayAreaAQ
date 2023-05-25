@@ -11,3 +11,9 @@ California has also taken steps to reduce air pollution. The California Air Reso
 The goal of this map is to determine how pollutant concentrations have changed in the San Francisco Bay Area from 2000 to 2015. This map tracks concentrations of three pollutants: ozone, particulate matter, and carbon monoxide, at the census tract level in the bay area. Ozone and particulate matter were chosen due to their impacts on human health, as outlined above. Sources of carbon monoxide emissions include tailpipe emissions and biomass burning. Carbon monoxide has impacts on human health and is an important contributor in the formation of ground-level ozone.
 
 [Link to webmap](https://jamo3524.github.io/bayareaaq/index.html)
+
+Python libraries used:
+* Geopandas
+* Folium
+* Pandas
+* Matplotlib
